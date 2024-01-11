@@ -1,0 +1,3 @@
+/home/louisalexanderskowronek/Desktop/UFOS/build/CMakeFiles/edit_cache.dir
+/home/louisalexanderskowronek/Desktop/UFOS/build/CMakeFiles/rebuild_cache.dir
+/home/louisalexanderskowronek/Desktop/UFOS/build/CMakeFiles/UFOS.dir

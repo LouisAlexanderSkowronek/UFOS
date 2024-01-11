@@ -1,0 +1,6 @@
+../assets/textures/ufo_edited.png
+../assets/textures/ufo2_edited.png
+../assets/textures/ufo3_edited.png
+../assets/textures/umbrella_edited.png
+../assets/textures/mushroom_edited.png
+../assets/textures/planet.png
