@@ -3,4 +3,3 @@
 ../assets/textures/ufo3_edited.png
 ../assets/textures/umbrella_edited.png
 ../assets/textures/mushroom_edited.png
-../assets/textures/planet.png

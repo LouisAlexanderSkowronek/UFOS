@@ -1,1 +1,3 @@
-build
+build/*
+feature-ideas.txt
+assets/musics/original-kleiner-satellit.ogg

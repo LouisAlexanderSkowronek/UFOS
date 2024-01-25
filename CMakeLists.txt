@@ -5,11 +5,9 @@ project(UFOS)
 add_executable(
     UFOS
     "${CMAKE_SOURCE_DIR}/src/main.cpp"
-    "${CMAKE_SOURCE_DIR}/src/init.cpp"
-    "${CMAKE_SOURCE_DIR}/src/loop.cpp"
+    "${CMAKE_SOURCE_DIR}/src/ufos_game.cpp"
     "${CMAKE_SOURCE_DIR}/src/ufo.cpp"
     "${CMAKE_SOURCE_DIR}/src/player.cpp"
-    "${CMAKE_SOURCE_DIR}//src/intro.cpp"
 )
 
 target_include_directories(UFOS PUBLIC "${CMAKE_SOURCE_DIR}/include")

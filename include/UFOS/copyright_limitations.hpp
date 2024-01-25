@@ -1,0 +1,1 @@
+#define COPYRIGHT_LIMITED
